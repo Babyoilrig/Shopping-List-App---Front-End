@@ -1,7 +1,8 @@
 Shopping List App
-===========
+=================
 
-<img src="https://user-images.githubusercontent.com/93347177/158183209-ef682fb2-260c-4547-95c5-c94ccd238688.PNG" width="500px"><br/>
+
+<img src="https://user-images.githubusercontent.com/93347177/158205919-f1a2d35f-7ce5-4856-a808-7b8289901923.PNG" width="500px"> <br/><br/>
 
 This was the first app that I ever created, and after I had only been coding for six weeks in total.
 
